@@ -1,0 +1,5 @@
+security:
+  role:
+    hierarchy: |
+      client-admin > client-delete > client-create > client-write > client-read
+      admin > delete > create > write > read
